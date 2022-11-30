@@ -1,4 +1,7 @@
 // ignore: import_of_legacy_library_into_null_safe
+// ignore_for_file: prefer_final_fields, avoid_print, unnecessary_null_comparison
+
+// ignore: import_of_legacy_library_into_null_safe
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:piddle/models/user.dart';
 

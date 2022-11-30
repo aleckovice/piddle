@@ -5,7 +5,7 @@ import 'package:piddle/models/user.dart';
 class AuthService {
   FirebaseAuth _auth = FirebaseAuth.instance;
 
-  User _userFromFirebaseUser(FirebaseUser user) {
+  User? _userFromFirebaseUser(FirebaseUser user) {
     return user != null ? User(uid: user.uid) : null;
   }
 

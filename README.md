@@ -1,6 +1,6 @@
-# piddle_two
+# Piddle
 
-A new Flutter project.
+A Flutter project to create an open-source, cross-platofrm application that can be used in the adminstration of ConcepTests for the Peer Instruction Pedagogy
 
 ## Getting Started
 
